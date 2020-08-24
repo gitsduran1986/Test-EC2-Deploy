@@ -1,0 +1,9 @@
+pandas
+numpy
+missingno
+plotly
+ipywidgets
+scikit-learn
+re
+requests
+kneed
